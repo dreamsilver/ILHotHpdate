@@ -1,0 +1,11 @@
+Temp
+obj
+Library
+# ProjectSettings
+.idea
+.vs
+
+HorUpdateDLL/bin
+HorUpdateDLL/obj
+HorUpdateMessage/bin
+HorUpdateMessage/obj

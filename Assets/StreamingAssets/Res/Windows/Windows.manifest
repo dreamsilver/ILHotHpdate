@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 574912657
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene1.assetbundle
+      Dependencies:
+        Dependency_0: scene1/mat.assetbundle
+    Info_1:
+      Name: scene1/floatingui.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: scene1/normal.assetbundle
+      Dependencies: {}
+    Info_3:
+      Name: scene2.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: scene1/popup.assetbundle
+      Dependencies: {}
+    Info_5:
+      Name: scene1/mat.assetbundle
+      Dependencies: {}
+    Info_6:
+      Name: hotscript.assetbundle
+      Dependencies: {}
+    Info_7:
+      Name: scene1/common.assetbundle
+      Dependencies: {}
